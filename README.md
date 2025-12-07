@@ -95,4 +95,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 
-Questions or collaboration? Reach out at: `your.email@example.com`
+Questions or collaboration? Reach out at: gmsayyadsvc4@gmail.com`
