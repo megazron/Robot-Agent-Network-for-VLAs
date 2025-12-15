@@ -1,4 +1,4 @@
-# 🤖 Robot Agent Network
+# 🤖 Robot Agent Network for Vision Language Action Model (VLAs)
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
